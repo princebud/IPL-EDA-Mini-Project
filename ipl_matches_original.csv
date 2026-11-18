@@ -1,0 +1,328 @@
+match_id,season,date,city,venue,team1,team2,toss_winner,toss_decision,winner,win_type,win_margin,first_innings_runs,second_innings_runs,first_innings_wickets,second_innings_wickets,player_of_match
+IPL-0001,2016,2016-04-01,Delhi,Eden Gardens,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,wickets,6.0,142.0,187.0,8,2,Shubman Gill
+IPL-0002,2017,2016-04-06,Mumbai,M. A. Chidambaram Stadium,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,8.0,175.0,155.0,9,6,Sanju Samson
+IPL-0003,2018,2016-04-09,Mohali,Sawai Mansingh Stadium,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,46.0,193.0,166.0,4,5,KL Rahul
+IPL-0004,2019,2016-04-12,Jaipur,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,46.0,182.0,136.0,3,8,Andre Russell
+IPL-0005,2020,2016-04-14,Chennai,Sawai Mansingh Stadium,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,wickets,8.0,152.0,201.0,8,5,Shubman Gill
+IPL-0006,2021,2016-04-21,Bengaluru,PCA Stadium,Punjab Kings,Gujarat Titans,Gujarat Titans,bat,Punjab Kings,runs,9.0,186.0,175.0,3,6,Shubman Gill
+IPL-0007,2022,2016-04-24,Lucknow,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,runs,21.0,160.0,149.0,7,9,MS Dhoni
+IPL-0008,2023,2016-04-27,Delhi,M. A. Chidambaram Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Chennai Super Kings,runs,13.0,168.0,139.0,3,4,Hardik Pandya
+IPL-0009,2024,2016-05-01,Hyderabad,Rajiv Gandhi International Stadium,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,45.0,187.0,145.0,5,5,Sanju Samson
+IPL-0010,2025,2016-05-04,Kolkata,M. Chinnaswamy Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Rajasthan Royals,runs,11.0,196.0,171.0,4,8,Hardik Pandya
+IPL-0011,2016,2016-05-08,Mumbai,Arun Jaitley Stadium,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,field,Rajasthan Royals,runs,43.0,189.0,121.0,8,4,Rohit Sharma
+IPL-0012,2017,2016-05-10,Delhi,Ekana Cricket Stadium,Punjab Kings,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,wickets,6.0,164.0,209.0,6,5,Suryakumar Yadav
+IPL-0013,2018,2016-05-14,Kolkata,Narendra Modi Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,5.0,162.0,169.0,6,6,
+IPL-0014,2019,2016-05-18,Lucknow,Sawai Mansingh Stadium,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,runs,12.0,162.0,151.0,4,9,Jos Buttler
+IPL-0015,2020,2016-05-21,Mumbai,M. A. Chidambaram Stadium,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,16.0,140.0,137.0,8,8,Rashid Khan
+IPL-0016,2021,2016-05-23,Jaipur,Ekana Cricket Stadium,Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,6.0,160.0,169.0,7,9,David Warner
+IPL-0017,2022,2016-05-26,Mohali,Narendra Modi Stadium,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,bat,Rajasthan Royals,wickets,1.0,153.0,154.0,8,2,Suryakumar Yadav
+IPL-0018,2023,2016-05-30,Bengaluru,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,wickets,2.0,158.0,165.0,5,9,Andre Russell
+IPL-0019,2024,2016-06-02,Mohali,Ekana Cricket Stadium,Lucknow Super Giants,Royal Challengers Bengaluru,Lucknow Super Giants,field,Lucknow Super Giants,runs,35.0,169.0,152.0,5,7,Sanju Samson
+IPL-0020,2025,2016-06-07,Lucknow,Rajiv Gandhi International Stadium,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,bat,Punjab Kings,wickets,8.0,134.0,135.0,2,4,Faf du Plessis
+IPL-0021,2016,2016-06-09,Delhi,Wankhede Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,runs,40.0,208.0,154.0,4,4,KL Rahul
+IPL-0022,2017,2016-06-13,Chennai,PCA Stadium,Gujarat Titans,Mumbai Indians,Gujarat Titans,field,Gujarat Titans,wickets,4.0,145.0,154.0,4,3,Rashid Khan
+IPL-0023,2018,2016-06-16,Mohali,Ekana Cricket Stadium,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,runs,48.0,178.0,147.0,4,5,Yashasvi Jaiswal
+IPL-0024,2019,2016-06-19,Jaipur,Rajiv Gandhi International Stadium,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,33.0,178.0,165.0,7,3,David Warner
+IPL-0025,2020,2016-06-23,Delhi,M. A. Chidambaram Stadium,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,bat,Lucknow Super Giants,runs,28.0,177.0,171.0,2,3,Suryakumar Yadav
+IPL-0026,2021,2016-06-27,Mumbai,M. A. Chidambaram Stadium,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,bat,Chennai Super Kings,runs,10.0,212.0,129.0,3,8,Rohit Sharma
+IPL-0027,2022,2016-07-01,Chennai,PCA Stadium,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians,wickets,1.0,133.0,184.0,6,4,KL Rahul
+IPL-0028,2023,2016-07-02,Lucknow,Ekana Cricket Stadium,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Rajasthan Royals,wickets,4.0,180.0,190.0,5,4,Faf du Plessis
+IPL-0029,2024,2016-07-06,Chennai,M. A. Chidambaram Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,15.0,,101.0,9,8,Yashasvi Jaiswal
+IPL-0030,2025,2016-07-10,Mumbai,M. A. Chidambaram Stadium,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,7.0,154.0,160.0,6,4,Rohit Sharma
+IPL-0031,2016,2016-07-14,Delhi,Arun Jaitley Stadium,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Delhi Capitals,runs,37.0,143.0,114.0,3,7,Pat Cummins
+IPL-0032,2017,2016-07-15,Ahmedabad,M. Chinnaswamy Stadium,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Sunrisers Hyderabad,runs,6.0,221.0,168.0,7,4,KL Rahul
+IPL-0033,2018,2016-07-21,Mohali,Wankhede Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,runs,21.0,144.0,143.0,3,6,MS Dhoni
+IPL-0034,2019,2016-07-23,Bengaluru,Arun Jaitley Stadium,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,3.0,146.0,192.0,8,7,Hardik Pandya
+IPL-0035,2020,2016-07-28,Jaipur,Narendra Modi Stadium,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,wickets,1.0,153.0,178.0,4,6,David Warner
+IPL-0036,2021,2016-08-01,Delhi,Narendra Modi Stadium,Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,wickets,8.0,176.0,212.0,9,8,Sanju Samson
+IPL-0037,2022,2016-08-01,Mumbai,Wankhede Stadium,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,field,Chennai Super Kings,runs,37.0,208.0,171.0,6,4,Faf du Plessis
+IPL-0038,2023,2016-08-07,Mohali,M. A. Chidambaram Stadium,Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,bat,Lucknow Super Giants,runs,52.0,215.0,170.0,2,2,Jasprit Bumrah
+IPL-0039,2024,2016-08-08,Chennai,Ekana Cricket Stadium,Mumbai Indians,Gujarat Titans,Mumbai Indians,field,Mumbai Indians,runs,10.0,220.0,159.0,2,7,KL Rahul
+IPL-0040,2025,2016-08-13,Lucknow,Ekana Cricket Stadium,Gujarat Titans,Chennai Super Kings,Gujarat Titans,field,Gujarat Titans,runs,43.0,211.0,138.0,8,9,Trent Boult
+IPL-0041,2016,2016-08-16,Delhi,Narendra Modi Stadium,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Punjab Kings,wickets,2.0,167.0,175.0,6,3,Hardik Pandya
+IPL-0042,2017,2016-08-18,Chennai,Wankhede Stadium,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,6.0,114.0,163.0,7,9,David Warner
+IPL-0043,2018,2016-08-22,Mohali,Narendra Modi Stadium,Gujarat Titans,Mumbai Indians,Gujarat Titans,bat,Gujarat Titans,wickets,6.0,162.0,192.0,3,2,Rashid Khan
+IPL-0044,2019,2016-08-26,Ahmedabad,Eden Gardens,Punjab Kings,Mumbai Indians,Punjab Kings,field,Punjab Kings,runs,17.0,185.0,150.0,2,9,David Warner
+IPL-0045,2020,2016-08-30,Chennai,Eden Gardens,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,field,Lucknow Super Giants,runs,51.0,209.0,160.0,7,9,Andre Russell
+IPL-0046,2021,2016-09-03,Ahmedabad,Ekana Cricket Stadium,Mumbai Indians,Gujarat Titans,Mumbai Indians,field,Mumbai Indians,runs,8.0,176.0,132.0,6,7,Sanju Samson
+IPL-0047,2022,2016-09-04,Ahmedabad,Wankhede Stadium,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,45.0,224.0,139.0,9,7,MS Dhoni
+IPL-0048,2023,2016-09-09,Hyderabad,Eden Gardens,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Rajasthan Royals,wickets,7.0,180.0,201.0,8,4,Andre Russell
+IPL-0049,2024,2016-09-12,Chennai,M. A. Chidambaram Stadium,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Royal Challengers Bengaluru,runs,48.0,167.0,133.0,3,9,Rashid Khan
+IPL-0050,2025,2016-09-15,Jaipur,Eden Gardens,Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,wickets,7.0,147.0,,5,9,Rohit Sharma
+IPL-0051,2016,2016-09-20,Delhi,Arun Jaitley Stadium,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Rajasthan Royals,runs,45.0,135.0,132.0,3,8,Shubman Gill
+IPL-0052,2017,2016-09-24,Delhi,Eden Gardens,Punjab Kings,Lucknow Super Giants,Lucknow Super Giants,bat,Lucknow Super Giants,wickets,7.0,161.0,175.0,2,3,Jasprit Bumrah
+IPL-0053,2018,2016-09-27,Jaipur,Arun Jaitley Stadium,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,Delhi Capitals,runs,16.0,193.0,178.0,3,3,Andre Russell
+IPL-0054,2019,2016-09-29,Bengaluru,Arun Jaitley Stadium,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,10.0,165.0,157.0,2,3,Sanju Samson
+IPL-0055,2020,2016-10-02,Delhi,Wankhede Stadium,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,bat,Punjab Kings,runs,,200.0,169.0,6,8,Sanju Samson
+IPL-0056,2021,2016-10-07,Ahmedabad,Rajiv Gandhi International Stadium,Delhi Capitals,Punjab Kings,Punjab Kings,bat,Punjab Kings,wickets,2.0,151.0,174.0,9,5,Trent Boult
+IPL-0057,2022,2016-10-08,Chennai,Narendra Modi Stadium,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,bat,Lucknow Super Giants,runs,3.0,216.0,176.0,3,4,Jasprit Bumrah
+IPL-0058,2023,2016-10-14,Lucknow,Sawai Mansingh Stadium,Gujarat Titans,Rajasthan Royals,Gujarat Titans,bat,Rajasthan Royals,wickets,1.0,140.0,200.0,6,2,Jos Buttler
+IPL-0059,2024,2016-10-17,Lucknow,Arun Jaitley Stadium,Punjab Kings,Delhi Capitals,Punjab Kings,field,Punjab Kings,runs,54.0,197.0,178.0,2,3,Andre Russell
+IPL-0060,2025,2016-10-20,Hyderabad,Sawai Mansingh Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Chennai Super Kings,runs,8.0,173.0,156.0,8,7,MS Dhoni
+IPL-0061,2016,2016-10-23,Mohali,Narendra Modi Stadium,Punjab Kings,Gujarat Titans,Punjab Kings,field,Punjab Kings,runs,22.0,213.0,90.0,6,8,Yashasvi Jaiswal
+IPL-0062,2017,2016-10-25,Delhi,Sawai Mansingh Stadium,Punjab Kings,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,runs,23.0,161.0,112.0,4,3,Hardik Pandya
+IPL-0063,2018,2016-10-29,Ahmedabad,Narendra Modi Stadium,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,bat,Royal Challengers Bengaluru,runs,,196.0,155.0,4,5,Sanju Samson
+IPL-0064,2019,2016-11-01,Bengaluru,Arun Jaitley Stadium,Delhi Capitals,Punjab Kings,Punjab Kings,field,Punjab Kings,runs,27.0,208.0,182.0,4,8,Trent Boult
+IPL-0065,2020,2016-11-05,Mohali,Ekana Cricket Stadium,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,field,Sunrisers Hyderabad,runs,45.0,220.0,178.0,6,3,Suryakumar Yadav
+IPL-0066,2021,2016-11-11,Delhi,Eden Gardens,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,wickets,2.0,152.0,194.0,7,2,Virat Kohli
+IPL-0067,2022,2016-11-13,Bengaluru,Sawai Mansingh Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,wickets,1.0,173.0,200.0,8,7,
+IPL-0068,2023,2016-11-16,,Wankhede Stadium,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,wickets,8.0,127.0,162.0,2,9,Shubman Gill
+IPL-0069,2024,2016-11-19,Mumbai,PCA Stadium,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Delhi Capitals,runs,53.0,189.0,144.0,6,9,KL Rahul
+IPL-0070,2025,2016-11-23,Mohali,PCA Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,wickets,5.0,153.0,174.0,6,3,Suryakumar Yadav
+IPL-0071,2016,2016-11-26,Kolkata,M. Chinnaswamy Stadium,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,runs,44.0,180.0,167.0,5,9,David Warner
+IPL-0072,2017,2016-11-28,Delhi,Narendra Modi Stadium,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,1.0,155.0,182.0,6,8,David Warner
+IPL-0073,2018,2016-12-02,Hyderabad,Rajiv Gandhi International Stadium,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,runs,37.0,195.0,147.0,7,3,Pat Cummins
+IPL-0074,2019,2016-12-07,Jaipur,Eden Gardens,Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,bat,Mumbai Indians,runs,21.0,178.0,173.0,9,8,Sanju Samson
+IPL-0075,2020,2016-12-09,Mohali,M. Chinnaswamy Stadium,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,4.0,182.0,194.0,3,6,Yashasvi Jaiswal
+IPL-0076,2021,2016-12-12,Lucknow,Wankhede Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,43.0,151.0,140.0,7,4,Hardik Pandya
+IPL-0077,2022,2016-12-15,Jaipur,Sawai Mansingh Stadium,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,runs,53.0,209.0,190.0,5,8,Pat Cummins
+IPL-0078,2023,2016-12-19,Ahmedabad,Sawai Mansingh Stadium,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,bat,Lucknow Super Giants,runs,33.0,166.0,104.0,8,5,Faf du Plessis
+IPL-0079,2024,2016-12-24,Kolkata,M. Chinnaswamy Stadium,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,runs,17.0,208.0,116.0,2,5,Rashid Khan
+IPL-0080,2025,2016-12-26,Lucknow,Ekana Cricket Stadium,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,field,Gujarat Titans,runs,43.0,184.0,180.0,5,7,Virat Kohli
+IPL-0081,2016,2016-12-30,Kolkata,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Mumbai Indians,runs,47.0,173.0,150.0,9,8,Andre Russell
+IPL-0082,2017,2017-01-03,Hyderabad,Rajiv Gandhi International Stadium,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Punjab Kings,wickets,1.0,153.0,169.0,9,6,Hardik Pandya
+IPL-0083,2018,2017-01-07,Bengaluru,Wankhede Stadium,Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,wickets,7.0,152.0,159.0,2,8,Pat Cummins
+IPL-0084,2019,2017-01-08,Mumbai,Wankhede Stadium,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,1.0,186.0,157.0,9,2,KL Rahul
+IPL-0085,2020,2017-01-14,Kolkata,M. Chinnaswamy Stadium,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,47.0,135.0,120.0,6,4,Shubman Gill
+IPL-0086,2021,2017-01-17,Hyderabad,Eden Gardens,Gujarat Titans,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6.0,164.0,170.0,8,8,Shubman Gill
+IPL-0087,2022,2017-01-19,Ahmedabad,Ekana Cricket Stadium,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,bat,Rajasthan Royals,wickets,6.0,150.0,205.0,2,6,Hardik Pandya
+IPL-0088,2023,2017-01-22,Chennai,Narendra Modi Stadium,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Kolkata Knight Riders,wickets,3.0,130.0,138.0,3,2,Shubman Gill
+IPL-0089,2024,2017-01-27,Hyderabad,M. A. Chidambaram Stadium,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,5.0,133.0,176.0,9,2,Trent Boult
+IPL-0090,2025,2017-01-28,Chennai,Sawai Mansingh Stadium,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,1.0,120.0,192.0,9,4,Jos Buttler
+IPL-0091,2016,2017-02-02,Mohali,Narendra Modi Stadium,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,wickets,6.0,153.0,177.0,9,4,Pat Cummins
+IPL-0092,2017,2017-02-05,Hyderabad,Arun Jaitley Stadium,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,field,Sunrisers Hyderabad,runs,32.0,208.0,154.0,3,5,MS Dhoni
+IPL-0093,2018,2017-02-08,Lucknow,Ekana Cricket Stadium,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Rajasthan Royals,runs,28.0,203.0,176.0,7,5,Hardik Pandya
+IPL-0094,2019,2017-02-14,Kolkata,M. Chinnaswamy Stadium,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,runs,16.0,230.0,167.0,5,9,Sanju Samson
+IPL-0095,2020,2017-02-16,Lucknow,Narendra Modi Stadium,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,runs,23.0,181.0,164.0,5,9,Pat Cummins
+IPL-0096,2021,2017-02-21,Delhi,Sawai Mansingh Stadium,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,bat,Chennai Super Kings,wickets,1.0,113.0,131.0,3,9,Faf du Plessis
+IPL-0097,2022,2017-02-22,Bengaluru,Wankhede Stadium,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,field,Lucknow Super Giants,runs,32.0,202.0,136.0,5,4,MS Dhoni
+IPL-0098,2023,2017-02-26,Ahmedabad,Ekana Cricket Stadium,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,wickets,7.0,177.0,183.0,7,3,Jos Buttler
+IPL-0099,2024,2017-02-28,Mohali,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,wickets,5.0,172.0,242.0,5,9,Jos Buttler
+IPL-0100,2025,2017-03-05,Delhi,M. A. Chidambaram Stadium,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Sunrisers Hyderabad,runs,29.0,188.0,163.0,9,7,Sanju Samson
+IPL-0101,2016,2017-03-07,Delhi,M. Chinnaswamy Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,bat,Punjab Kings,wickets,7.0,148.0,184.0,4,8,Andre Russell
+IPL-0102,2017,2017-03-10,Delhi,Narendra Modi Stadium,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,bat,Gujarat Titans,runs,18.0,184.0,155.0,4,7,KL Rahul
+IPL-0103,2018,2017-03-16,Mohali,Eden Gardens,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,wickets,3.0,116.0,120.0,2,5,Andre Russell
+IPL-0104,2019,2017-03-17,Bengaluru,M. A. Chidambaram Stadium,Chennai Super Kings,Gujarat Titans,Gujarat Titans,bat,Chennai Super Kings,runs,53.0,129.0,90.0,6,6,Virat Kohli
+IPL-0105,2020,2017-03-21,Bengaluru,Rajiv Gandhi International Stadium,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,6.0,156.0,178.0,8,3,Jasprit Bumrah
+IPL-0106,2021,2017-03-27,Chennai,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,wickets,5.0,169.0,188.0,7,8,Faf du Plessis
+IPL-0107,2022,2017-03-29,Lucknow,Narendra Modi Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Chennai Super Kings,wickets,5.0,197.0,213.0,3,9,MS Dhoni
+IPL-0108,2023,2017-04-02,Mohali,Sawai Mansingh Stadium,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,wickets,4.0,166.0,207.0,9,8,David Warner
+IPL-0109,2024,2017-04-06,Lucknow,Ekana Cricket Stadium,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,2.0,179.0,211.0,8,9,Rohit Sharma
+IPL-0110,2025,2017-04-06,Ahmedabad,M. A. Chidambaram Stadium,Gujarat Titans,Mumbai Indians,Gujarat Titans,bat,Gujarat Titans,runs,17.0,184.0,118.0,9,3,Jasprit Bumrah
+IPL-0111,2016,2017-04-13,Mumbai,Sawai Mansingh Stadium,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,bat,Royal Challengers Bengaluru,wickets,2.0,105.0,141.0,6,4,David Warner
+IPL-0112,2017,2017-04-16,Delhi,Narendra Modi Stadium,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,42.0,166.0,157.0,7,8,Rishabh Pant
+IPL-0113,2018,2017-04-18,Lucknow,Arun Jaitley Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Sunrisers Hyderabad,runs,47.0,191.0,184.0,4,9,Yashasvi Jaiswal
+IPL-0114,2019,2017-04-22,Ahmedabad,Eden Gardens,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,bat,Mumbai Indians,runs,51.0,228.0,162.0,8,5,MS Dhoni
+IPL-0115,2020,2017-04-23,Bengaluru,M. A. Chidambaram Stadium,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,4.0,137.0,138.0,8,2,David Warner
+IPL-0116,2021,2017-04-29,Bengaluru,M. A. Chidambaram Stadium,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,2.0,150.0,192.0,7,4,Rohit Sharma
+IPL-0117,2022,2017-05-02,Chennai,Arun Jaitley Stadium,Delhi Capitals,Punjab Kings,Punjab Kings,bat,Punjab Kings,runs,33.0,187.0,170.0,9,3,Virat Kohli
+IPL-0118,2023,2017-05-04,Mohali,M. Chinnaswamy Stadium,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Chennai Super Kings,wickets,8.0,146.0,170.0,4,7,Andre Russell
+IPL-0119,2024,2017-05-10,Bengaluru,Rajiv Gandhi International Stadium,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,wickets,6.0,164.0,,5,6,Yashasvi Jaiswal
+IPL-0120,2025,2017-05-12,Hyderabad,Sawai Mansingh Stadium,Punjab Kings,Gujarat Titans,Punjab Kings,bat,Punjab Kings,wickets,6.0,141.0,186.0,8,6,Faf du Plessis
+IPL-0121,2016,2017-05-16,Chennai,Rajiv Gandhi International Stadium,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Rajasthan Royals,wickets,8.0,178.0,213.0,6,2,Andre Russell
+IPL-0122,2017,2017-05-20,Mohali,M. Chinnaswamy Stadium,Punjab Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,wickets,7.0,125.0,126.0,7,6,Yashasvi Jaiswal
+IPL-0123,2018,2017-05-23,Bengaluru,Wankhede Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,runs,23.0,178.0,111.0,9,3,Sanju Samson
+IPL-0124,2019,2017-05-26,Bengaluru,M. Chinnaswamy Stadium,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,field,Rajasthan Royals,runs,51.0,154.0,145.0,2,4,Shubman Gill
+IPL-0125,2020,2017-05-27,Mohali,Wankhede Stadium,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Kolkata Knight Riders,wickets,1.0,124.0,181.0,2,4,Pat Cummins
+IPL-0126,2021,2017-06-03,Bengaluru,M. A. Chidambaram Stadium,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Delhi Capitals,runs,41.0,184.0,140.0,7,7,Rashid Khan
+IPL-0127,2022,2017-06-04,Bengaluru,M. Chinnaswamy Stadium,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7.0,154.0,208.0,2,3,KL Rahul
+IPL-0128,2023,2017-06-09,Delhi,Ekana Cricket Stadium,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,field,Lucknow Super Giants,wickets,4.0,154.0,179.0,6,8,Trent Boult
+IPL-0129,2024,2017-06-12,Hyderabad,PCA Stadium,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bengaluru,runs,20.0,142.0,92.0,7,6,Andre Russell
+IPL-0130,2025,2017-06-16,Kolkata,M. Chinnaswamy Stadium,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,3.0,117.0,155.0,4,2,Pat Cummins
+IPL-0131,2016,2017-06-20,Bengaluru,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Sunrisers Hyderabad,runs,40.0,188.0,180.0,3,5,Sanju Samson
+IPL-0132,2017,2017-06-22,Mumbai,Rajiv Gandhi International Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,8.0,176.0,154.0,9,6,Faf du Plessis
+IPL-0133,2018,2017-06-23,Mumbai,Eden Gardens,Delhi Capitals,Gujarat Titans,Delhi Capitals,field,Delhi Capitals,runs,22.0,136.0,113.0,9,2,Trent Boult
+IPL-0134,2019,2017-06-27,Chennai,PCA Stadium,Gujarat Titans,Punjab Kings,Gujarat Titans,field,Gujarat Titans,wickets,1.0,167.0,215.0,5,2,David Warner
+IPL-0135,2020,2017-07-02,Chennai,M. Chinnaswamy Stadium,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,wickets,3.0,147.0,170.0,2,9,Andre Russell
+IPL-0136,2021,2017-07-07,Mohali,Sawai Mansingh Stadium,Punjab Kings,Delhi Capitals,Punjab Kings,field,Punjab Kings,runs,16.0,171.0,137.0,9,9,Suryakumar Yadav
+IPL-0137,2022,2017-07-08,Delhi,Narendra Modi Stadium,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,bat,Lucknow Super Giants,wickets,5.0,126.0,179.0,3,4,KL Rahul
+IPL-0138,2023,2017-07-10,Bengaluru,Eden Gardens,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Mumbai Indians,runs,14.0,179.0,143.0,6,8,Rishabh Pant
+IPL-0139,2024,2017-07-14,Ahmedabad,Rajiv Gandhi International Stadium,Chennai Super Kings,Gujarat Titans,Gujarat Titans,bat,Chennai Super Kings,runs,44.0,238.0,177.0,3,4,Jos Buttler
+IPL-0140,2025,2017-07-19,Lucknow,Eden Gardens,Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,field,Royal Challengers Bengaluru,wickets,6.0,189.0,202.0,5,6,Jasprit Bumrah
+IPL-0141,2016,2017-07-23,Bengaluru,Ekana Cricket Stadium,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,31.0,159.0,150.0,9,3,Rashid Khan
+IPL-0142,2017,2017-07-25,Ahmedabad,Wankhede Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,4.0,160.0,174.0,7,9,David Warner
+IPL-0143,2018,2017-07-30,Bengaluru,Rajiv Gandhi International Stadium,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,bat,Rajasthan Royals,runs,14.0,148.0,141.0,9,2,Rishabh Pant
+IPL-0144,2019,2017-08-03,Delhi,Sawai Mansingh Stadium,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,1.0,166.0,198.0,5,2,Faf du Plessis
+IPL-0145,2020,2017-08-05,Lucknow,Narendra Modi Stadium,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,12.0,201.0,135.0,5,5,Rishabh Pant
+IPL-0146,2021,2017-08-08,Lucknow,Wankhede Stadium,Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,Chennai Super Kings,runs,7.0,190.0,164.0,5,4,Faf du Plessis
+IPL-0147,2022,2017-08-10,Delhi,Ekana Cricket Stadium,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,19.0,166.0,128.0,2,2,Andre Russell
+IPL-0148,2023,2017-08-15,Bengaluru,Wankhede Stadium,Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,3.0,143.0,162.0,8,3,Jos Buttler
+IPL-0149,2024,2017-08-20,Jaipur,Eden Gardens,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,3.0,146.0,208.0,5,7,Sanju Samson
+IPL-0150,2025,2017-08-21,Kolkata,Narendra Modi Stadium,Royal Challengers Bengaluru,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,wickets,2.0,140.0,178.0,2,3,Faf du Plessis
+IPL-0151,2016,2017-08-25,Chennai,Eden Gardens,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Rajasthan Royals,runs,11.0,179.0,169.0,3,9,KL Rahul
+IPL-0152,2017,2017-08-27,Jaipur,Wankhede Stadium,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,bat,Lucknow Super Giants,wickets,5.0,109.0,195.0,2,2,Andre Russell
+IPL-0153,2018,2017-09-01,Ahmedabad,Ekana Cricket Stadium,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,5.0,480.0,192.0,8,6,Hardik Pandya
+IPL-0154,2019,2017-09-06,Mumbai,Ekana Cricket Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,field,Punjab Kings,wickets,8.0,146.0,165.0,8,3,Pat Cummins
+IPL-0155,2020,2017-09-09,Ahmedabad,Sawai Mansingh Stadium,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,Punjab Kings,runs,45.0,221.0,199.0,6,7,Shubman Gill
+IPL-0156,2021,2017-09-12,Bengaluru,M. A. Chidambaram Stadium,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,4.0,184.0,202.0,8,6,Shubman Gill
+IPL-0157,2022,2017-09-16,Bengaluru,Rajiv Gandhi International Stadium,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,2.0,181.0,111.0,2,5,Pat Cummins
+IPL-0158,2023,2017-09-18,Bengaluru,Ekana Cricket Stadium,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Delhi Capitals,runs,18.0,219.0,216.0,7,8,Yashasvi Jaiswal
+IPL-0159,2024,2017-09-20,Bengaluru,M. Chinnaswamy Stadium,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,39.0,172.0,171.0,6,7,KL Rahul
+IPL-0160,2025,2017-09-26,Mumbai,Sawai Mansingh Stadium,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,1.0,135.0,163.0,6,9,Andre Russell
+IPL-0161,2016,2017-09-29,Delhi,Ekana Cricket Stadium,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Kolkata Knight Riders,runs,49.0,172.0,172.0,6,2,Virat Kohli
+IPL-0162,2017,2017-09-30,Lucknow,Arun Jaitley Stadium,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,33.0,167.0,142.0,6,5,MS Dhoni
+IPL-0163,2018,2017-10-04,Hyderabad,Eden Gardens,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,bat,Lucknow Super Giants,wickets,5.0,121.0,161.0,7,2,Virat Kohli
+IPL-0164,2019,2017-10-10,Kolkata,M. A. Chidambaram Stadium,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,field,Rajasthan Royals,runs,31.0,173.0,139.0,8,3,Virat Kohli
+IPL-0165,2020,2017-10-13,Lucknow,Rajiv Gandhi International Stadium,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,bat,Royal Challengers Bengaluru,runs,42.0,208.0,197.0,7,4,Virat Kohli
+IPL-0166,2021,2017-10-14,Jaipur,PCA Stadium,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,44.0,178.0,158.0,5,2,Shubman Gill
+IPL-0167,2022,2017-10-18,Mohali,Ekana Cricket Stadium,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,4.0,154.0,174.0,5,7,Shubman Gill
+IPL-0168,2023,2017-10-21,Mohali,Narendra Modi Stadium,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,bat,Lucknow Super Giants,wickets,2.0,140.0,150.0,3,7,David Warner
+IPL-0169,2024,2017-10-27,Jaipur,M. A. Chidambaram Stadium,Chennai Super Kings,Gujarat Titans,Gujarat Titans,field,Chennai Super Kings,runs,41.0,139.0,101.0,9,9,Faf du Plessis
+IPL-0170,2025,2017-10-29,Lucknow,Eden Gardens,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Mumbai Indians,wickets,6.0,168.0,201.0,5,7,MS Dhoni
+IPL-0171,2016,2017-11-03,Lucknow,PCA Stadium,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7.0,140.0,153.0,6,7,Rishabh Pant
+IPL-0172,2017,2017-11-05,Chennai,PCA Stadium,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,bat,Lucknow Super Giants,wickets,1.0,211.0,220.0,2,5,Sanju Samson
+IPL-0173,2018,2017-11-09,Hyderabad,M. Chinnaswamy Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Delhi Capitals,runs,22.0,221.0,162.0,5,7,Hardik Pandya
+IPL-0174,2019,2017-11-11,Hyderabad,Narendra Modi Stadium,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Delhi Capitals,runs,34.0,195.0,143.0,6,2,Jos Buttler
+IPL-0175,2020,2017-11-15,Chennai,M. A. Chidambaram Stadium,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,22.0,197.0,165.0,5,4,Yashasvi Jaiswal
+IPL-0176,2021,2017-11-18,Lucknow,PCA Stadium,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,Mumbai Indians,runs,53.0,183.0,106.0,3,2,Pat Cummins
+IPL-0177,2022,2017-11-20,Jaipur,Wankhede Stadium,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,runs,16.0,170.0,167.0,2,4,Rishabh Pant
+IPL-0178,2023,2017-11-26,Lucknow,PCA Stadium,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,15.0,160.0,147.0,3,5,Sanju Samson
+IPL-0179,2024,2017-11-27,Hyderabad,PCA Stadium,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,28.0,192.0,166.0,5,7,Jos Buttler
+IPL-0180,2025,2017-11-30,Mohali,Ekana Cricket Stadium,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,runs,49.0,165.0,161.0,4,4,Pat Cummins
+IPL-0181,2016,2017-12-04,Ahmedabad,Narendra Modi Stadium,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Chennai Super Kings,runs,,140.0,129.0,9,6,Suryakumar Yadav
+IPL-0182,2017,2017-12-10,Lucknow,Sawai Mansingh Stadium,Punjab Kings,Chennai Super Kings,Punjab Kings,bat,Punjab Kings,runs,47.0,159.0,90.0,4,8,MS Dhoni
+IPL-0183,2018,2017-12-11,Jaipur,Sawai Mansingh Stadium,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,bat,Chennai Super Kings,wickets,2.0,160.0,166.0,6,5,David Warner
+IPL-0184,2019,2017-12-15,Hyderabad,Ekana Cricket Stadium,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,3.0,147.0,179.0,6,8,MS Dhoni
+IPL-0185,2020,2017-12-17,Chennai,Narendra Modi Stadium,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,bat,Chennai Super Kings,wickets,8.0,167.0,212.0,8,6,David Warner
+IPL-0186,2021,2017-12-21,Ahmedabad,Arun Jaitley Stadium,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,7.0,136.0,167.0,9,3,Trent Boult
+IPL-0187,2022,2017-12-26,Ahmedabad,Ekana Cricket Stadium,Mumbai Indians,Punjab Kings,Punjab Kings,bat,Mumbai Indians,runs,40.0,187.0,146.0,5,9,Faf du Plessis
+IPL-0188,2023,2017-12-29,Jaipur,Ekana Cricket Stadium,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,bat,Lucknow Super Giants,wickets,2.0,145.0,180.0,8,7,Rohit Sharma
+IPL-0189,2024,2018-01-01,Kolkata,Narendra Modi Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,wickets,7.0,147.0,168.0,3,2,Rishabh Pant
+IPL-0190,2025,2018-01-04,Jaipur,Eden Gardens,Punjab Kings,Mumbai Indians,Punjab Kings,field,Punjab Kings,wickets,4.0,167.0,177.0,5,8,Rashid Khan
+IPL-0191,2016,2018-01-08,Chennai,Sawai Mansingh Stadium,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,field,Delhi Capitals,wickets,8.0,184.0,199.0,3,8,Rohit Sharma
+IPL-0192,2017,2018-01-11,Hyderabad,Ekana Cricket Stadium,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,wickets,1.0,139.0,162.0,6,8,Yashasvi Jaiswal
+IPL-0193,2018,2018-01-13,Chennai,Sawai Mansingh Stadium,Gujarat Titans,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,runs,26.0,196.0,179.0,9,2,Virat Kohli
+IPL-0194,2019,2018-01-19,Chennai,Sawai Mansingh Stadium,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Punjab Kings,runs,46.0,181.0,90.0,6,3,Shubman Gill
+IPL-0195,2020,2018-01-21,Jaipur,Narendra Modi Stadium,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,runs,19.0,184.0,179.0,5,7,Suryakumar Yadav
+IPL-0196,2021,2018-01-27,Mohali,M. A. Chidambaram Stadium,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,Punjab Kings,wickets,7.0,158.0,232.0,4,2,Trent Boult
+IPL-0197,2022,2018-01-30,Kolkata,Arun Jaitley Stadium,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,36.0,175.0,134.0,3,4,Shubman Gill
+IPL-0198,2023,2018-02-01,Lucknow,Eden Gardens,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,26.0,164.0,142.0,9,5,MS Dhoni
+IPL-0199,2024,2018-02-04,Lucknow,Ekana Cricket Stadium,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,8.0,169.0,171.0,3,3,Suryakumar Yadav
+IPL-0200,2025,2018-02-07,Bengaluru,M. Chinnaswamy Stadium,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,33.0,202.0,152.0,7,7,Rishabh Pant
+IPL-0201,2016,2018-02-12,Ahmedabad,M. Chinnaswamy Stadium,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,wickets,6.0,129.0,171.0,9,2,David Warner
+IPL-0202,2017,2018-02-15,Chennai,M. A. Chidambaram Stadium,Chennai Super Kings,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,wickets,6.0,132.0,174.0,2,7,Trent Boult
+IPL-0203,2018,2018-02-17,Lucknow,Arun Jaitley Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Delhi Capitals,wickets,8.0,158.0,191.0,6,4,Suryakumar Yadav
+IPL-0204,2019,2018-02-22,Bengaluru,M. A. Chidambaram Stadium,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,bat,Gujarat Titans,wickets,6.0,168.0,175.0,7,3,Suryakumar Yadav
+IPL-0205,2020,2018-02-25,Delhi,M. Chinnaswamy Stadium,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,bat,Mumbai Indians,runs,19.0,195.0,163.0,9,5,David Warner
+IPL-0206,2021,2018-02-28,Hyderabad,Narendra Modi Stadium,Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,field,Gujarat Titans,wickets,6.0,172.0,175.0,5,4,Hardik Pandya
+IPL-0207,2022,2018-03-04,Chennai,Rajiv Gandhi International Stadium,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Delhi Capitals,runs,11.0,182.0,127.0,7,8,Shubman Gill
+IPL-0208,2023,2018-03-08,Lucknow,Eden Gardens,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,runs,8.0,142.0,134.0,8,3,Suryakumar Yadav
+IPL-0209,2024,2018-03-12,Jaipur,Eden Gardens,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,runs,51.0,189.0,175.0,3,9,MS Dhoni
+IPL-0210,2025,2018-03-15,Kolkata,PCA Stadium,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,wickets,5.0,112.0,154.0,6,6,MS Dhoni
+IPL-0211,2016,2018-03-17,Hyderabad,Narendra Modi Stadium,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,bat,Delhi Capitals,runs,22.0,201.0,200.0,7,6,Jasprit Bumrah
+IPL-0212,2017,2018-03-21,Delhi,Eden Gardens,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Punjab Kings,wickets,5.0,157.0,164.0,2,9,Rashid Khan
+IPL-0213,2018,2018-03-22,Hyderabad,Ekana Cricket Stadium,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Mumbai Indians,runs,30.0,190.0,136.0,9,8,Rashid Khan
+IPL-0214,2019,2018-03-27,Kolkata,Ekana Cricket Stadium,Gujarat Titans,Delhi Capitals,Gujarat Titans,bat,Gujarat Titans,runs,51.0,150.0,139.0,7,5,Jasprit Bumrah
+IPL-0215,2020,2018-03-30,Delhi,M. Chinnaswamy Stadium,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Sunrisers Hyderabad,runs,43.0,184.0,127.0,8,9,Rishabh Pant
+IPL-0216,2021,2018-04-02,Bengaluru,Arun Jaitley Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,6.0,133.0,209.0,5,6,Jos Buttler
+IPL-0217,2022,2018-04-06,,PCA Stadium,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Gujarat Titans,runs,13.0,184.0,160.0,4,4,Trent Boult
+IPL-0218,2023,2018-04-09,Ahmedabad,Wankhede Stadium,Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,bat,Royal Challengers Bengaluru,wickets,3.0,153.0,163.0,8,2,Faf du Plessis
+IPL-0219,2024,2018-04-12,Ahmedabad,M. A. Chidambaram Stadium,Punjab Kings,Lucknow Super Giants,Punjab Kings,bat,Punjab Kings,runs,7.0,169.0,159.0,8,6,Jasprit Bumrah
+IPL-0220,2025,2018-04-16,Chennai,Arun Jaitley Stadium,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Sunrisers Hyderabad,wickets,4.0,146.0,171.0,9,2,David Warner
+IPL-0221,2016,2018-04-22,Jaipur,PCA Stadium,Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,Punjab Kings,runs,180.0,212.0,172.0,9,9,Jos Buttler
+IPL-0222,2017,2018-04-22,Delhi,Wankhede Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,7.0,175.0,152.0,4,5,Suryakumar Yadav
+IPL-0223,2018,2018-04-27,Mumbai,Narendra Modi Stadium,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,Mumbai Indians,runs,28.0,164.0,147.0,3,3,Faf du Plessis
+IPL-0224,2019,2018-05-02,Chennai,Wankhede Stadium,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,wickets,1.0,153.0,201.0,7,2,Andre Russell
+IPL-0225,2020,2018-05-02,Ahmedabad,Arun Jaitley Stadium,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,24.0,206.0,198.0,9,3,Rishabh Pant
+IPL-0226,2021,2018-05-07,Lucknow,M. Chinnaswamy Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Chennai Super Kings,wickets,7.0,141.0,186.0,7,7,MS Dhoni
+IPL-0227,2022,2018-05-12,Kolkata,Narendra Modi Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,wickets,7.0,195.0,209.0,5,7,Yashasvi Jaiswal
+IPL-0228,2023,2018-05-12,Kolkata,M. A. Chidambaram Stadium,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Chennai Super Kings,runs,6.0,174.0,167.0,9,9,Trent Boult
+IPL-0229,2024,2018-05-17,Bengaluru,Wankhede Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,field,Punjab Kings,wickets,1.0,144.0,178.0,6,3,Hardik Pandya
+IPL-0230,2025,2018-05-22,Chennai,Rajiv Gandhi International Stadium,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Punjab Kings,runs,46.0,166.0,156.0,8,7,KL Rahul
+IPL-0231,2016,2018-05-23,Hyderabad,PCA Stadium,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,Punjab Kings,wickets,5.0,113.0,138.0,3,6,Suryakumar Yadav
+IPL-0232,2017,2018-05-26,Kolkata,M. A. Chidambaram Stadium,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,wickets,3.0,,203.0,2,6,David Warner
+IPL-0233,2018,2018-05-29,Delhi,Wankhede Stadium,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Chennai Super Kings,wickets,3.0,172.0,216.0,6,4,Suryakumar Yadav
+IPL-0234,2019,2018-06-04,,Wankhede Stadium,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,wickets,1.0,172.0,185.0,3,8,Sanju Samson
+IPL-0235,2020,2018-06-05,Ahmedabad,M. A. Chidambaram Stadium,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Rajasthan Royals,runs,55.0,200.0,170.0,3,7,Jos Buttler
+IPL-0236,2021,2018-06-12,Hyderabad,Eden Gardens,Delhi Capitals,Gujarat Titans,Gujarat Titans,field,Delhi Capitals,runs,250.0,191.0,168.0,7,3,Faf du Plessis
+IPL-0237,2022,2018-06-15,Jaipur,M. A. Chidambaram Stadium,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,bat,Punjab Kings,runs,37.0,610.0,129.0,8,5,Yashasvi Jaiswal
+IPL-0238,2023,2018-06-16,Chennai,M. A. Chidambaram Stadium,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Gujarat Titans,runs,46.0,144.0,,7,5,Suryakumar Yadav
+IPL-0239,2024,2018-06-20,Kolkata,M. Chinnaswamy Stadium,Rajasthan Royals,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,runs,27.0,161.0,130.0,2,4,Jos Buttler
+IPL-0240,2025,2018-06-23,Ahmedabad,Wankhede Stadium,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,runs,31.0,169.0,116.0,5,4,MS Dhoni
+IPL-0241,2016,2018-06-29,Kolkata,Ekana Cricket Stadium,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Delhi Capitals,runs,32.0,183.0,125.0,4,5,David Warner
+IPL-0242,2017,2018-07-02,Hyderabad,Rajiv Gandhi International Stadium,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,bat,Chennai Super Kings,runs,50.0,171.0,123.0,2,6,Hardik Pandya
+IPL-0243,2018,2018-07-05,Hyderabad,Rajiv Gandhi International Stadium,Gujarat Titans,Chennai Super Kings,Gujarat Titans,field,Chennai Super Kings,wickets,4.0,168.0,210.0,3,8,David Warner
+IPL-0244,2019,2018-07-07,Hyderabad,Narendra Modi Stadium,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Mumbai Indians,runs,11.0,226.0,223.0,2,5,KL Rahul
+IPL-0245,2020,2018-07-09,Mohali,Sawai Mansingh Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,runs,24.0,,125.0,3,2,Pat Cummins
+IPL-0246,2021,2018-07-13,Delhi,Ekana Cricket Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,runs,20.0,153.0,144.0,3,4,Rishabh Pant
+IPL-0247,2022,2018-07-18,Chennai,M. Chinnaswamy Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,wickets,2.0,180.0,191.0,4,5,Jasprit Bumrah
+IPL-0248,2023,2018-07-19,Chennai,PCA Stadium,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,1.0,105.0,123.0,9,2,Pat Cummins
+IPL-0249,2024,2018-07-24,Hyderabad,PCA Stadium,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,bat,Rajasthan Royals,runs,46.0,209.0,163.0,2,2,KL Rahul
+IPL-0250,2025,2018-07-26,Bengaluru,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,Kolkata Knight Riders,wickets,3.0,146.0,180.0,9,2,Jos Buttler
+IPL-0251,2016,2018-07-30,Lucknow,M. A. Chidambaram Stadium,Lucknow Super Giants,Punjab Kings,Punjab Kings,bat,Punjab Kings,runs,54.0,187.0,148.0,6,8,MS Dhoni
+IPL-0252,2017,2018-08-04,Jaipur,Ekana Cricket Stadium,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,4.0,108.0,167.0,5,8,MS Dhoni
+IPL-0253,2018,2018-08-06,Bengaluru,PCA Stadium,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,runs,6.0,187.0,183.0,3,9,Jos Buttler
+IPL-0254,2019,2018-08-09,Jaipur,PCA Stadium,Royal Challengers Bengaluru,Lucknow Super Giants,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,24.0,219.0,149.0,6,5,Rohit Sharma
+IPL-0255,2020,2018-08-13,Kolkata,Eden Gardens,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,field,Mumbai Indians,wickets,3.0,121.0,159.0,9,8,Suryakumar Yadav
+IPL-0256,2021,2018-08-19,Ahmedabad,Arun Jaitley Stadium,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Punjab Kings,wickets,5.0,149.0,174.0,6,4,Pat Cummins
+IPL-0257,2022,2018-08-22,Mohali,Eden Gardens,Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,wickets,2.0,170.0,217.0,4,4,Rashid Khan
+IPL-0258,2023,2018-08-25,Chennai,Wankhede Stadium,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,42.0,,151.0,5,8,Andre Russell
+IPL-0259,2024,2018-08-28,Mohali,Narendra Modi Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,37.0,190.0,184.0,8,2,Rishabh Pant
+IPL-0260,2025,2018-08-31,Bengaluru,M. A. Chidambaram Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,5.0,161.0,176.0,9,9,Rohit Sharma
+IPL-0261,2016,2018-09-04,Bengaluru,Arun Jaitley Stadium,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bengaluru,runs,2.0,217.0,175.0,2,2,Suryakumar Yadav
+IPL-0262,2017,2018-09-05,Hyderabad,Sawai Mansingh Stadium,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,1.0,115.0,188.0,8,5,Rashid Khan
+IPL-0263,2018,2018-09-11,Delhi,M. Chinnaswamy Stadium,Punjab Kings,Lucknow Super Giants,Punjab Kings,field,Punjab Kings,wickets,5.0,171.0,225.0,4,8,Shubman Gill
+IPL-0264,2019,2018-09-14,Chennai,Wankhede Stadium,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Rajasthan Royals,runs,30.0,160.0,101.0,3,3,Rishabh Pant
+IPL-0265,2020,2018-09-15,,Ekana Cricket Stadium,Delhi Capitals,Gujarat Titans,Delhi Capitals,bat,Delhi Capitals,runs,33.0,153.0,130.0,9,9,Suryakumar Yadav
+IPL-0266,2021,2018-09-21,Bengaluru,Narendra Modi Stadium,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,4.0,105.0,183.0,4,6,Faf du Plessis
+IPL-0267,2022,2018-09-24,Delhi,Arun Jaitley Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,3.0,144.0,201.0,9,9,Jos Buttler
+IPL-0268,2023,2018-09-25,,M. Chinnaswamy Stadium,Chennai Super Kings,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,runs,16.0,194.0,144.0,2,2,Rishabh Pant
+IPL-0269,2024,2018-10-01,Kolkata,Narendra Modi Stadium,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,field,Chennai Super Kings,wickets,4.0,166.0,176.0,8,6,Jos Buttler
+IPL-0270,2025,2018-10-04,Mumbai,Ekana Cricket Stadium,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Delhi Capitals,wickets,5.0,156.0,164.0,3,8,Pat Cummins
+IPL-0271,2016,2018-10-08,Jaipur,PCA Stadium,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Punjab Kings,runs,8.0,180.0,117.0,5,5,David Warner
+IPL-0272,2017,2018-10-10,Chennai,Sawai Mansingh Stadium,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,bat,Rajasthan Royals,wickets,4.0,141.0,191.0,4,3,Jos Buttler
+IPL-0273,2018,2018-10-13,Delhi,Ekana Cricket Stadium,Punjab Kings,Lucknow Super Giants,Lucknow Super Giants,bat,Punjab Kings,runs,48.0,185.0,184.0,9,9,Trent Boult
+IPL-0274,2019,2018-10-17,Mumbai,Eden Gardens,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,bat,Delhi Capitals,runs,30.0,183.0,178.0,5,3,Suryakumar Yadav
+IPL-0275,2020,2018-10-20,Lucknow,PCA Stadium,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,bat,Sunrisers Hyderabad,runs,17.0,181.0,143.0,9,6,Rashid Khan
+IPL-0276,2021,2018-10-24,Lucknow,Narendra Modi Stadium,Punjab Kings,Gujarat Titans,Punjab Kings,field,Punjab Kings,runs,7.0,520.0,126.0,2,9,Suryakumar Yadav
+IPL-0277,2022,2018-10-26,Bengaluru,Wankhede Stadium,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,field,Lucknow Super Giants,runs,51.0,185.0,153.0,8,2,Jos Buttler
+IPL-0278,2023,2018-10-31,Mumbai,Ekana Cricket Stadium,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,8.0,161.0,192.0,5,3,Faf du Plessis
+IPL-0279,2024,2018-11-05,Kolkata,PCA Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Rajasthan Royals,runs,6.0,182.0,131.0,3,3,Hardik Pandya
+IPL-0280,2025,2018-11-05,Delhi,Wankhede Stadium,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,bat,Kolkata Knight Riders,wickets,7.0,129.0,189.0,7,6,David Warner
+IPL-0281,2016,2018-11-11,Delhi,Sawai Mansingh Stadium,Punjab Kings,Delhi Capitals,Punjab Kings,field,Punjab Kings,runs,30.0,182.0,181.0,3,5,
+IPL-0282,2017,2018-11-12,Mohali,Arun Jaitley Stadium,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,bat,Gujarat Titans,runs,26.0,206.0,90.0,9,5,Pat Cummins
+IPL-0283,2018,2018-11-16,Kolkata,M. Chinnaswamy Stadium,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,1.0,174.0,202.0,4,7,Pat Cummins
+IPL-0284,2019,2018-11-21,Lucknow,M. Chinnaswamy Stadium,Punjab Kings,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,wickets,1.0,153.0,209.0,5,2,Sanju Samson
+IPL-0285,2020,2018-11-25,Ahmedabad,Narendra Modi Stadium,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders,runs,29.0,224.0,183.0,3,5,Sanju Samson
+IPL-0286,2021,2018-11-29,Mohali,Narendra Modi Stadium,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Punjab Kings,runs,9.0,205.0,155.0,9,4,Rishabh Pant
+IPL-0287,2022,2018-11-29,Hyderabad,Eden Gardens,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,field,Mumbai Indians,runs,30.0,191.0,172.0,3,4,Rishabh Pant
+IPL-0288,2023,2018-12-05,Bengaluru,Narendra Modi Stadium,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Rajasthan Royals,wickets,7.0,160.0,231.0,3,7,Faf du Plessis
+IPL-0289,2024,2018-12-06,Kolkata,M. A. Chidambaram Stadium,Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,wickets,4.0,148.0,231.0,4,5,KL Rahul
+IPL-0290,2025,2018-12-12,Mumbai,M. A. Chidambaram Stadium,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,11.0,165.0,158.0,5,5,Yashasvi Jaiswal
+IPL-0291,2016,2018-12-13,Mumbai,PCA Stadium,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Sunrisers Hyderabad,wickets,2.0,146.0,189.0,7,8,Jasprit Bumrah
+IPL-0292,2017,2018-12-19,Ahmedabad,Rajiv Gandhi International Stadium,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,6.0,164.0,137.0,3,8,Rishabh Pant
+IPL-0293,2018,2018-12-21,Kolkata,Sawai Mansingh Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,runs,55.0,169.0,151.0,6,4,Jasprit Bumrah
+IPL-0294,2019,2018-12-25,Ahmedabad,Wankhede Stadium,Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,wickets,5.0,153.0,175.0,5,7,Virat Kohli
+IPL-0295,2020,2018-12-28,Bengaluru,PCA Stadium,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,4.0,180.0,234.0,7,2,Trent Boult
+IPL-0296,2021,2018-12-31,Delhi,M. A. Chidambaram Stadium,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,wickets,6.0,162.0,180.0,5,7,Suryakumar Yadav
+IPL-0297,2022,2019-01-05,Mumbai,Rajiv Gandhi International Stadium,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,wickets,6.0,168.0,233.0,5,8,Rishabh Pant
+IPL-0298,2023,2019-01-06,Jaipur,PCA Stadium,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,field,Gujarat Titans,runs,21.0,198.0,143.0,7,7,Suryakumar Yadav
+IPL-0299,2024,2019-01-11,Kolkata,M. Chinnaswamy Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Mumbai Indians,runs,26.0,173.0,126.0,8,5,Suryakumar Yadav
+IPL-0300,2025,2019-01-14,Delhi,M. Chinnaswamy Stadium,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,6.0,175.0,198.0,7,4,Andre Russell
+IPL-0301,2016,2019-01-16,Hyderabad,Arun Jaitley Stadium,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Punjab Kings,wickets,8.0,167.0,227.0,9,2,Rohit Sharma
+IPL-0302,2017,2019-01-20,Jaipur,PCA Stadium,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Mumbai Indians,runs,49.0,184.0,181.0,3,3,Rishabh Pant
+IPL-0303,2018,2019-01-22,Delhi,Eden Gardens,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,wickets,4.0,149.0,191.0,7,8,Faf du Plessis
+IPL-0304,2019,2019-01-27,Mohali,M. Chinnaswamy Stadium,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,5.0,154.0,164.0,4,7,Pat Cummins
+IPL-0305,2020,2019-01-29,Mohali,Rajiv Gandhi International Stadium,Kolkata Knight Riders,Gujarat Titans,Kolkata Knight Riders,field,Gujarat Titans,wickets,6.0,141.0,174.0,2,6,MS Dhoni
+IPL-0306,2021,2019-02-02,Lucknow,PCA Stadium,Gujarat Titans,Mumbai Indians,Gujarat Titans,bat,Gujarat Titans,runs,20.0,156.0,146.0,5,4,Rashid Khan
+IPL-0307,2022,2019-02-05,Delhi,Ekana Cricket Stadium,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,bat,Punjab Kings,runs,42.0,185.0,101.0,5,9,Faf du Plessis
+IPL-0308,2023,2019-02-08,Bengaluru,Eden Gardens,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,bat,Lucknow Super Giants,wickets,3.0,173.0,181.0,4,7,Trent Boult
+IPL-0309,2024,2019-02-15,Ahmedabad,Wankhede Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Delhi Capitals,runs,28.0,177.0,143.0,3,4,Hardik Pandya
+IPL-0310,2025,2019-02-15,Mumbai,Sawai Mansingh Stadium,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,Rajasthan Royals,runs,49.0,136.0,90.0,8,5,Jos Buttler
+IPL-0311,2016,2019-02-21,Bengaluru,Wankhede Stadium,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,bat,Mumbai Indians,runs,1.0,202.0,200.0,8,7,Rishabh Pant
+IPL-0312,2017,2019-02-23,Hyderabad,Sawai Mansingh Stadium,Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,field,Delhi Capitals,runs,31.0,187.0,174.0,5,8,David Warner
+IPL-0313,2018,2019-02-28,Hyderabad,M. A. Chidambaram Stadium,Delhi Capitals,Gujarat Titans,Delhi Capitals,bat,Gujarat Titans,wickets,7.0,145.0,187.0,2,2,Jasprit Bumrah
+IPL-0314,2019,2019-03-03,Mumbai,Wankhede Stadium,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,bat,Lucknow Super Giants,wickets,4.0,164.0,190.0,8,3,Rishabh Pant
+IPL-0315,2020,2019-03-07,Delhi,Arun Jaitley Stadium,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,runs,31.0,165.0,111.0,6,9,David Warner
+IPL-0316,2021,2019-03-08,Chennai,Wankhede Stadium,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,wickets,8.0,128.0,143.0,3,7,
+IPL-0317,2022,2019-03-11,Chennai,M. A. Chidambaram Stadium,Gujarat Titans,Chennai Super Kings,Gujarat Titans,bat,Gujarat Titans,runs,10.0,154.0,143.0,8,7,Rohit Sharma
+IPL-0318,2023,2019-03-17,Jaipur,M. Chinnaswamy Stadium,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Chennai Super Kings,wickets,6.0,161.0,169.0,4,4,KL Rahul
+IPL-0319,2024,2019-03-19,Mohali,Narendra Modi Stadium,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,bat,Lucknow Super Giants,runs,15.0,154.0,130.0,3,6,KL Rahul
+IPL-0320,2025,2019-03-24,Ahmedabad,Eden Gardens,Gujarat Titans,Punjab Kings,Punjab Kings,bat,Punjab Kings,runs,43.0,172.0,158.0,5,6,Trent Boult
+IPL-0032,2017,2016-07-15,Ahmedabad,M. Chinnaswamy Stadium,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Sunrisers Hyderabad,runs,6.0,221.0,168.0,7,4,KL Rahul
+IPL-0096,2021,2017-02-21,Delhi,Sawai Mansingh Stadium,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,bat,Chennai Super Kings,wickets,1.0,113.0,131.0,3,9,Faf du Plessis
+IPL-0110,2025,2017-04-06,Ahmedabad,M. A. Chidambaram Stadium,Gujarat Titans,Mumbai Indians,Gujarat Titans,bat,Gujarat Titans,runs,17.0,184.0,118.0,9,3,Jasprit Bumrah
+IPL-0311,2016,2019-02-21,Bengaluru,Wankhede Stadium,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,bat,Mumbai Indians,runs,1.0,202.0,200.0,8,7,Rishabh Pant
+IPL-0099,2024,2017-02-28,Mohali,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,wickets,5.0,172.0,242.0,5,9,Jos Buttler
+IPL-0166,2021,2017-10-14,Jaipur,PCA Stadium,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,runs,44.0,178.0,158.0,5,2,Shubman Gill
+IPL-0014,2019,2016-05-18,Lucknow,Sawai Mansingh Stadium,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,runs,12.0,162.0,151.0,4,9,Jos Buttler
